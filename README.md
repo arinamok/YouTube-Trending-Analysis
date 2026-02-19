@@ -76,5 +76,6 @@ Jupyter Notebook / Google Colab
 
 A detailed technical report and project presentation are available:
 
-- 📄 [Full Analysis Report](link_to_pdf)
-- 📊 [Project Presentation](link_to_ppt)
+- [Full Analysis Report](https://github.com/arinamok/YouTube-Trending-Analysis/blob/main/Reports/An%20Analysis%20of%20U.S.%20Trending%20Videos.pdf)
+- [Project Presentation](https://github.com/arinamok/YouTube-Trending-Analysis/blob/main/Reports/Final%20Results.pptx)
+- [View Notebook](https://github.com/arinamok/YouTube-Trending-Analysis/blob/main/Notebook/YouTube%20Trending%20Videos%20Analysis.ipynb)
